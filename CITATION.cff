@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this, please cite it. This is an unverified candidate."
+title: "Candidate exotic-free heterotic SU(5) line-bundle model on CICY 5421/Z2 (unverified)"
+authors:
+  - family-names: "Pande"
+    given-names: "Siddharaj"
+type: software
+repository-code: "https://github.com/siddharaj93/cicy5421-candidate"
+# doi: "10.5281/zenodo.XXXXXXX"   # add after the Zenodo upload
