@@ -5,8 +5,6 @@
 Archived at Zenodo: https://doi.org/10.5281/zenodo.23993984
 Status: unverified numerical candidate, not a claimed discovery.
 
-**Status: unverified candidate. Please try to break it.** This is not a claimed discovery.
-
 On CICY #5421 (h11=8, h21=32, Euler number -48) with a freely acting Z2, a sum of five line bundles appears to give, after the Z2 quotient and a Z2 Wilson line, a spectrum with 3 families, one Higgs pair and no exotics.
 
 ## Bundles (ambient classes of the original description, ambient P1xP1xP1xP1xP3)
