@@ -1,5 +1,10 @@
 # Candidate heterotic SU(5) line-bundle model on CICY 5421 / Z2 (unverified)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23993984.svg)](https://doi.org/10.5281/zenodo.23993984)
+
+Archived at Zenodo: https://doi.org/10.5281/zenodo.23993984
+Status: unverified numerical candidate, not a claimed discovery.
+
 **Status: unverified candidate. Please try to break it.** This is not a claimed discovery.
 
 On CICY #5421 (h11=8, h21=32, Euler number -48) with a freely acting Z2, a sum of five line bundles appears to give, after the Z2 quotient and a Z2 Wilson line, a spectrum with 3 families, one Higgs pair and no exotics.
