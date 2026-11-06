@@ -33,7 +33,7 @@ Z2 characters come from this repository's own code. The fifth (non-diagonal) Z2 
 - `docs/candidate_note.md`: detailed note; `docs/public_post_draft.md`: forum post draft
 
 ## Citation
-See `CITATION.cff`. Add the Zenodo DOI once available.
+See `CITATION.cff`.
 
 ## Cross-check of the two engines
 `python check_spectrum_v2.py` re-implements the cohomology calculation from scratch (different data structures, different prime) and compares it with `check_spectrum.py` on 15 bundles x 2 models x 4 Z2 actions (120 cases): 0 mismatches. This checks for implementation bugs; both use the same Koszul/Bott method.
